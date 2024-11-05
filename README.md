@@ -13,3 +13,7 @@ This exercise shows a file directory which has files and folders, when clicking 
 - You need to create functionality to delete the target node.
 
 - You need to add a state manager to persist the changes.
+
+## Deployed app
+
+https://indiecake.github.io/Webtronic-interview-app/
